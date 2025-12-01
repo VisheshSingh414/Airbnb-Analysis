@@ -60,4 +60,4 @@ Are more reviews linked to cheaper or expensive listings?
 or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
 
 Screenshots / Demos
-Show what the dashboard looks like. --: https://github.com/thakurvishesh414-vish/Airbnb-Analysis/blob/main/Airbnb%20analysis%20through%20PowerBi.png  
+Show what the dashboard looks like. --: https://github.com/VisheshSingh414/Airbnb-Analysis/blob/main/Airbnb%20analysis%20through%20PowerBi%20(2).png
